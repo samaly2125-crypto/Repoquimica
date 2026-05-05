@@ -14,7 +14,7 @@
 
         <p>
             La química, es una ciencia que estudia la composición,
-            estructura y transformación de la materia.
+            estructura y transformación de la materia..
         </p>
 
         <h2>Origen</h2>
