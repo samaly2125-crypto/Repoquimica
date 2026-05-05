@@ -13,7 +13,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Alchemy_lab.jpg" alt="Historia de la química">
 
         <p>
-            La química es una ciencia que estudia la composición,
+            La química, es una ciencia que estudia la composición,
             estructura y transformación de la materia.
         </p>
 
