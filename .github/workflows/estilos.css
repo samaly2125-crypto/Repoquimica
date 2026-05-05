@@ -1,0 +1,43 @@
+body{
+    background-color: #e8f0fe;
+    font-family: Arial;
+}
+
+.contenedor{
+    width: 70%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1{
+    color: darkblue;
+}
+
+h2{
+    color: darkgreen;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    width: 400px;
+    border-radius: 10px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: darkblue;
+}
