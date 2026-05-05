@@ -22,7 +22,7 @@
         <p>
             La química comenzó hace miles de años con la alquimia,
             una práctica antigua que buscaba transformar metales
-            comunes en oro y descubrir el elixir de la vida.
+            comunes en oro y descubrir el elixir de la vida..
         </p>
 
         <h2>Química Moderna</h2>
